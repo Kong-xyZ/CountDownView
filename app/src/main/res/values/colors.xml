@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC700</color>
+    <color name="colorPrimaryDark">#FFC700</color>
+    <color name="colorAccent">@color/color_white</color>
+    <color name="colorAccentAlpha">#88FFFFFF</color>
+    <color name="colorPrimaryAlpha">#f0262626</color>
+
+    <color name="color_white">#FFFFFFFF</color>
+
+    <color name="text_main">#FFC700</color>
+    <color name="text_main_sec">#D5C8B8</color>
+    <color name="text_grey">#C8C8CB</color>
+    <color name="text_grey_sec">#B1B1B1</color>
+    <color name="text_grey_third">#C7C7C7</color>
+    <color name="text_black">#000001</color>
+    <color name="text_black_30">#4D000001</color>
+    <color name="text_black_48">#7A000001</color>
+    <color name="text_black_60">#99000001</color>
+    <color name="text_black_74">#BD000001</color>
+    <color name="line_grey">#DBDBDB</color>
+    <color name="line_grey_sec">#D9DBE2</color>
+    <color name="line_grey_third">#8A8D8F</color>
+    <color name="line_grey_third_23">#3D8A8D8F</color>
+    <color name="line_grey_third_46">#758A8D8F</color>
+
+    <color name="point_grey">#D9DBE2</color>
+    <color name="bg_ring">#FFF4EE</color>
+
+    <color name="default_shadow_color">#A2AFCA</color>
+    <color name="default_shadowback_color">@color/color_white</color>
+    <color name="color_trans">#00000000</color>
+</resources>
